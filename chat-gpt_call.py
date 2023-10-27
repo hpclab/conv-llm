@@ -5,6 +5,7 @@ from methods.methods import *
 import time
 from tqdm import tqdm
 import copy
+import pandas as pd
 ### LOAD EVALUATION AND QRELS
 evaluation_path = './trec/treccast/'
 qrels_path = './trec/qrels/'
@@ -13,12 +14,8 @@ qrels19 = all_qrels[all_qrels.year == 2019]
 eval_19 = pd.read_csv('./trec/evaluation2019.csv')
 eval_20 = pd.read_csv('./trec/evaluation2020.csv')
 eval_21 = pd.read_csv('./trec/evaluation2021.csv')
-madda_0_key = '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'#maddaoriginal
-guido_1_key ='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'#shared con cris e franco @gmail
-madda_2_key = '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' #fortebraccio
-guido_3_key = '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'
-cris_4_key = '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'
-openai.api_key = madda_2_key
+
+openai.api_key = 'Your key'
 
 import re
 def sub_(x):
@@ -112,14 +109,7 @@ def chatgpt(messages:list, model = 'gpt-3.5-turbo'):
   return response.choices[0]['message']['content']
 
 
-_2020 = create_df_from_json(pd.read_json('/data4/guidorocchietti/GPT_clean/trec/treccast/2020_manual_evaluation_topics_v1.0.json'))
-_2020['conv_id'] = [x.split('_')[0] for x in _2020.number]
-_2020['turn'] = [x.split('_')[1] for x in _2020.number]
-qrels20 =load_qrels('/data4/guidorocchietti/GPT_clean/trec/qrels/2020qrels.txt')
 
-_2019 = pd.read_csv('/data4/guidorocchietti/GPT_clean/trec/evaluation2019.csv')
-manual_2019 = pd.read_csv('/data4/guidorocchietti/GPT_clean/trec/treccast/test_manual_utterance.tsv', sep = '\t', names=['qid','manual_rewritten_utterance'])
-_2019 = _2019.merge(manual_2019,on='qid')
 # %%
 '''
 system_text = 'In a multi-turn dialog system, rewrite the given sentence to be self-explanatory. Use elements of the previous sentences to generate better sentences.'
@@ -294,6 +284,15 @@ def chatgpt_for_df(evaluation,system_text = 'In a multi-turn dialog system, rewr
   return pd.DataFrame(dictionary), pd.DataFrame(prompts)
  
 # %%
+
+_2020 = create_df_from_json(pd.read_json('./trec/treccast/2020_manual_evaluation_topics_v1.0.json'))
+_2020['conv_id'] = [x.split('_')[0] for x in _2020.number]
+_2020['turn'] = [x.split('_')[1] for x in _2020.number]
+qrels20 =load_qrels('./trec/qrels/2020qrels.txt')
+
+_2019 = pd.read_csv('./trec/evaluation2019.csv')
+manual_2019 = pd.read_csv('./trec/treccast/test_manual_utterance.tsv', sep = '\t', names=['qid','manual_rewritten_utterance'])
+_2019 = _2019.merge(manual_2019,on='qid')
 
 prompts = pd.read_csv('./top5_prompts.csv',sep=';')
 for i in range(len(prompts)):
