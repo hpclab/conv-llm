@@ -1,0 +1,217 @@
+qid,conv_id,turn,year,raw_utterance
+81_1,81,1,2020,How do you know when your garage door opener is going bad?
+81_2,81,2,2020,Now it stopped working. Why?
+81_3,81,3,2020,How much does it cost for someone to fix it?
+81_4,81,4,2020,How about replacing it instead?
+81_5,81,5,2020,How do I choose a new one?
+81_6,81,6,2020,What does a smart one do?
+81_7,81,7,2020,What's important for me to know about their safety?
+81_8,81,8,2020,How could they be hacked?
+82_1,82,1,2020,I would like to learn about GMO Food labeling.
+82_2,82,2,2020,What are the pros and cons?
+82_3,82,3,2020,And what about the cons?
+82_4,82,4,2020,What are the EU rules?
+82_5,82,5,2020,Tell me more about traceability tools.
+82_6,82,6,2020,What is the role of Co-Extra?
+82_7,82,7,2020,How is testing done for contamination?
+82_8,82,8,2020,What's the difference between the European and US approaches?
+82_9,82,9,2020,How does the DNA-based method work?
+82_10,82,10,2020,How could Co-Extra improve it?
+83_1,83,1,2020,What are some interesting facts about bees?
+83_2,83,2,2020,Why doesn't it spoil?
+83_3,83,3,2020,Why are so many dying?
+83_4,83,4,2020,What can be done to stop it?
+83_5,83,5,2020,What has happened to their habitat?
+83_6,83,6,2020,What can I do to help with the problem?
+83_7,83,7,2020,What is the cause of CCD?
+83_8,83,8,2020,What would happen if they died out?
+84_1,84,1,2020,How does seed investment work for startups?
+84_2,84,2,2020,Tell me more about angel rounds.
+84_3,84,3,2020,How does it compare with crowdfunding?
+84_4,84,4,2020,How much is a typical A series round?
+84_5,84,5,2020,What are the risks of investing?
+84_6,84,6,2020,What are the different types of instruments used by VCs?
+85_1,85,1,2020,How much does a used Lamborghini cost?
+85_2,85,2,2020,How does it compare to a Ferrari?
+85_3,85,3,2020,Interesting. What about for a pimped-out food truck?
+85_4,85,4,2020,What licenses and permits are needed?
+85_5,85,5,2020,What makes a good location?
+85_6,85,6,2020,What is a typical day like?
+85_7,85,7,2020,How can I run it successfully?
+85_8,85,8,2020,What are some good examples to learn from?
+85_9,85,9,2020,"Besides inventive flavors, what made it successful?"
+86_1,86,1,2020,What is the climate like in Utah?
+86_2,86,2,2020,How does Salt Lake City differ?
+86_3,86,3,2020,What is its main economic activity?
+86_4,86,4,2020,What was the impact of the 2002 games?
+86_5,86,5,2020,What were important ski locations used?
+86_6,86,6,2020,What are the important non-ski events that happen in the city?
+86_7,86,7,2020,What about some popular non-winter things to do in the area?
+87_1,87,1,2020,What are the different types of orange trees?
+87_2,87,2,2020,How can you tell them apart?
+87_3,87,3,2020,What type has thorns?
+87_4,87,4,2020,Where do they originally come from?
+87_5,87,5,2020,Tell me about the Hamlin variety.
+87_6,87,6,2020,Why did it replace PB?
+87_7,87,7,2020,What are the different types of navels?
+87_8,87,8,2020,Which is the most delicious?
+87_9,87,9,2020,How do they compare with blood oranges?
+88_1,88,1,2020,Can I have some information on the labor systems of the Ottoman Empire?
+88_2,88,2,2020,What was the role of slavery?
+88_3,88,3,2020,How did it govern?
+88_4,88,4,2020,Why was it important?
+88_5,88,5,2020,What was the culture like?
+88_6,88,6,2020,What was the role of storytellers?
+88_7,88,7,2020,What were popular stories?
+88_8,88,8,2020,What was the importance of the millet?
+88_9,88,9,2020,Why did the British continue it?
+88_10,88,10,2020,What is its historical importance in developing national identities?
+89_1,89,1,2020,What is the relationship between predator and prey?
+89_2,89,2,2020,What do predator plants eat?
+89_3,89,3,2020,What about Venus flytraps in particular?
+89_4,89,4,2020,Where is it native to?
+89_5,89,5,2020,How do they attract and catch their prey?
+89_6,89,6,2020,What are other similar plants from its native area?
+89_7,89,7,2020,How do populations of predators and prey relate?
+89_8,89,8,2020,Why would the roles reverse?
+89_9,89,9,2020,How does the relationship influence biodiversity?
+89_10,89,10,2020,What are examples of these predators?
+89_11,89,11,2020,Why would humans be considered one?
+90_1,90,1,2020,Which is the biggest commercial plane?
+90_2,90,2,2020,What are its operational costs?
+90_3,90,3,2020,How does its fuel consumption compare to its competitors?
+90_4,90,4,2020,How do the freighter versions compare to each other?
+90_5,90,5,2020,Why did the A380 stop being produced?
+90_6,90,6,2020,What was Boeing's response to compete with it?
+90_7,90,7,2020,What is the newest version and what is better about it?
+90_8,90,8,2020,What are the differences between the variants?
+91_1,91,1,2020,What is the purpose of GDPR?
+91_2,91,2,2020,What is different compared to previous legislation?
+91_3,91,3,2020,What are the privacy implications of those technologies?
+91_4,91,4,2020,"Oh, IP addresses are considered PII? What is the full range of personal data?"
+91_5,91,5,2020,How do big companies adapt to GDPR?
+91_6,91,6,2020,OK. Tell me about the privacy issues in social networks.
+91_7,91,7,2020,What do they get in return for their privacy?
+91_8,91,8,2020,What are the symptoms of that addiction?
+92_1,92,1,2020,Do shoulder braces help recover from an injury?
+92_2,92,2,2020,Tell me more about some exercises that could help.
+92_3,92,3,2020,What are some others?
+92_4,92,4,2020,How do I know if it's serious?
+92_5,92,5,2020,When should you consider surgery?
+92_6,92,6,2020,That seems extreme. What are other ways to treat the pain?
+92_7,92,7,2020,How do I stop it from hurting at my desk?
+92_8,92,8,2020,What are the benefits of a standing one?
+93_1,93,1,2020,Tell me about purchasing a Burger King franchise.
+93_2,93,2,2020,"No, not information about its acquisition. I want to know how to open a franchise."
+93_3,93,3,2020,Is there any financial support for the fee?
+93_4,93,4,2020,How much does an owner typically make?
+93_5,93,5,2020,Is it better to be a franchise or independent?
+93_6,93,6,2020,What support does it provide?
+93_7,93,7,2020,OK let's do it. What is the process?
+94_1,94,1,2020,How did snowboarding begin?
+94_2,94,2,2020,Interesting. That's later than I expected. Who were the winners?
+94_3,94,3,2020,What are strap-in bindings?
+94_4,94,4,2020,What's an alternative to this binding style?
+94_5,94,5,2020,What else do I need for my first time?
+94_6,94,6,2020,How can I teach myself to get started?
+94_7,94,7,2020,What are the best slopes in Seattle?
+94_8,94,8,2020,What are other things to do at Bachelor?
+95_1,95,1,2020,How are waste and garbage processed?
+95_2,95,2,2020,Interesting. What is the impact of burning on the environment?
+95_3,95,3,2020,So you can compact them; why does it slow the waste processing?
+95_4,95,4,2020,How is sewage recycled?
+95_5,95,5,2020,What are the pros and cons of recycling vs composting?
+95_6,95,6,2020,Tell me more about biodegradable plastics.
+95_7,95,7,2020,How are they made?
+95_8,95,8,2020,How is corn oil used?
+96_1,96,1,2020,How do you make Japanese Yakiniku?
+96_2,96,2,2020,Can the sauce be used in other dishes?
+96_3,96,3,2020,What are the best Yakiniku restaurants in Tokyo?
+96_4,96,4,2020,Tell me about three star Michelin sushi restaurants there.
+96_5,96,5,2020,Oh you need an agent to make reservations?
+96_6,96,6,2020,Tell me other fun things to do there.
+96_7,96,7,2020,What is the cost of living there compared to NYC?
+96_8,96,8,2020,What is the salary of foreign law firms there?
+97_1,97,1,2020,Who are the rivals of the Steelers?
+97_2,97,2,2020,What are notable games between Ravens versus Steelers?
+97_3,97,3,2020,And notable moments in their rivalry?
+97_4,97,4,2020,Tell me more about that Polamalu's interception.
+97_5,97,5,2020,How about his pick-6?
+97_6,97,6,2020,Tell me more about the immaculate reception.
+97_7,97,7,2020,What happened to the stadium?
+97_8,97,8,2020,Tell me more about their defense.
+98_1,98,1,2020,What is the environmental cost of food production?
+98_2,98,2,2020,Oh that much water? How is that for meat?
+98_3,98,3,2020,How much less is used for vegetables?
+98_4,98,4,2020,What are the benefits of being vegetarian?
+98_5,98,5,2020,Are there any health concerns?
+98_6,98,6,2020,What are their sources of proteins?
+98_7,98,7,2020,Oh almonds? Can you show me recipes with it?
+98_8,98,8,2020,How do you make the flour?
+99_1,99,1,2020,What is high blood carbon dioxide?
+99_2,99,2,2020,What should you do to treat it?
+99_3,99,3,2020,How about high cholesterol?
+99_4,99,4,2020,What should I eat to improve it?
+99_5,99,5,2020,What are the differences between the two fats?
+99_6,99,6,2020,"So, there are two types.  Is the other fat good for you?"
+99_7,99,7,2020,Oh I like fish.  What other foods are good sources?
+99_8,99,8,2020,What types does olive oil contain?
+100_1,100,1,2020,What causes my teeth to chip off?
+100_2,100,2,2020,"Oh, what can they do to fix it?"
+100_3,100,3,2020,"I have a larger chip, how do the options different?"
+100_4,100,4,2020,A crown sounds better. What about using an implant?
+100_5,100,5,2020,Which one is more expensive?
+100_6,100,6,2020,What is the coverage of the crown in insurance?
+100_7,100,7,2020,I meant medicare
+100_8,100,8,2020,Show me covered dentists in Seattle
+101_1,101,1,2020,What is Melania Trump's religion?
+101_2,101,2,2020,What did she do before she was married?
+101_3,101,3,2020,Does she have children?
+101_4,101,4,2020,How old is he?
+101_5,101,5,2020,They met at the Kit Kat Club?  Where is that?
+101_6,101,6,2020,When did she become a model?
+101_7,101,7,2020,Do we pay the First Lady?
+101_8,101,8,2020,What about Ivanka?
+101_9,101,9,2020,And Jared?
+101_10,101,10,2020,What does he do at the White House?
+102_1,102,1,2020,When did social security start in the US?
+102_2,102,2,2020,Was it mandatory?
+102_3,102,3,2020,Who received the first check?
+102_4,102,4,2020,When did the government start borrowing from it?
+102_5,102,5,2020,How much is owed?
+102_6,102,6,2020,When will it run out of money?
+102_7,102,7,2020,Wow! What will happen?
+102_8,102,8,2020,Can it be fixed?
+102_9,102,9,2020,How much of an increase?
+103_1,103,1,2020,Why were the Dead such an influential live band?
+103_2,103,2,2020,Why did they allow live recordings?
+103_3,103,3,2020,Did they have a #1 hit?
+103_4,103,4,2020,Who was the leader?
+103_5,103,5,2020,How did he lose his finger?
+103_6,103,6,2020,What was his relationship to the Airplane?
+103_7,103,7,2020,Is Cassidy about Jack Casady?
+103_8,103,8,2020,Who wrote it?
+103_9,103,9,2020,What else did they write?
+103_10,103,10,2020,Why did the band break up?
+104_1,104,1,2020,Who are some of the well-known Information Retrieval researchers?
+104_2,104,2,2020,What did he work on?
+104_3,104,3,2020,Who are some important British ones?
+104_4,104,4,2020,What did his studies contribute to evaluation?
+104_5,104,5,2020,What are some criticisms of the experiments?
+104_6,104,6,2020,How did they influence modern initiatives?
+104_7,104,7,2020,What is TREC?
+104_8,104,8,2020,What are some recent tasks?
+104_9,104,9,2020,e-Discovery?  What's that?
+104_10,104,10,2020,What are the important components of a test collection?
+104_11,104,11,2020,What about benchmarks for music?
+104_12,104,12,2020,What are important measures for web search engines?
+104_13,104,13,2020,What about online ones?
+105_1,105,1,2020,When did the Black Lives Matter campaign begin?
+105_2,105,2,2020,Tell me more about what happened.
+105_3,105,3,2020,Why was he acquitted?
+105_4,105,4,2020,And how about what happened to Brown?
+105_5,105,5,2020,Who named the movement?
+105_6,105,6,2020,What was the US reaction to it?
+105_7,105,7,2020,Tell me more about the movement of the police supporters.
+105_8,105,8,2020,Why were they killed?
+105_9,105,9,2020,What else motivates the Black Lives Matter movement?

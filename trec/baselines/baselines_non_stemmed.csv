@@ -1,0 +1,660 @@
+,qid,ndcg_cut_3,recall_200,query
+0,1_1,0.0,0.0,what is a physician s assistant
+0,1_2,0.0,0.0,what are the educational requirements required to become one
+0,1_3,0.0,0.0,what does it cost
+0,1_4,0.0,0.0,what s the average starting salary in the uk
+0,1_5,0.0,0.0,what about in the us
+0,1_6,0.0,0.0,what school subjects are needed to become a registered nurse
+0,1_7,0.0,0.0,what is the pa average salary vs an rn
+0,1_8,0.0,0.0,what the difference between a pa and a nurse practitioner
+0,1_9,0.0,0.0,do nps or pas make more
+0,1_10,0.0,0.0,is a pa above a np
+0,1_11,0.0,0.0,what is the fastest way to become a np
+0,1_12,0.0,0.0,how much longer does it take to become a doctor after being an np
+0,2_1,0.0,0.0,what are the main breeds of goat
+0,2_2,0.5307212739772434,0.2857142857142857,tell me about boer goats
+0,2_3,0.0,0.14285714285714285,what breed is good for meat
+0,2_4,0.0,0.0,are angora goats good for it
+0,2_5,0.0,0.07692307692307693,what about boer goats
+0,2_6,0.0,0.0,what are pygmies used for
+0,2_7,0.0,0.0,what is the best for fiber production
+0,2_8,0.0,0.0,how long do angora goats live
+0,2_9,0.0,0.0,can you milk them
+0,2_10,0.0,0.0,how many can you have per acre
+0,2_11,0.0,0.0,are they profitable
+0,4_1,0.23463936301137822,0.2,what was the neolithic revolution
+0,4_2,0.0,0.0,when did it start and end
+0,4_3,0.0,0.0,why did it start
+0,4_4,0.0,0.0,what did the neolithic invent
+0,4_5,0.0,0.0,what tools were used
+0,4_6,0.0,1.0,when was it brought to the british isles
+0,4_7,0.0,0.0,describe the period that follows it
+0,4_8,0.0,0.0,what was its significance
+0,4_9,0.0,0.0,what were the houses like
+0,7_1,0.0,0.0,what are the different types of macromolecules
+0,7_2,0.0,0.0,tell me about the characteristics of carbohydrates
+0,7_3,0.0,0.0,what are they composed of
+0,7_4,0.0,0.0,what is their basic structure
+0,7_5,0.0,0.0,what are the main types with examples of each
+0,7_6,0.0,0.0,tell me about lipids
+0,7_7,0.0,0.0,what is their function
+0,7_8,0.0,0.0,what are the types of lipids
+0,7_9,0.0,0.0,what is the most common
+0,7_10,0.0,0.0,what is the difference between them and carbohydrates
+0,7_11,0.0,0.0,why are carbs better
+0,15_1,0.0,0.6666666666666666,tell me about the international linguistics olympiad
+0,15_2,0.0,0.0,how do i prepare for it
+0,15_3,0.0,0.0,how tough is the exam
+0,15_4,0.0,0.0,what kind of problems can i expect
+0,15_5,0.0,1.0,tell me about the history of linguistics as a field
+0,15_6,0.0,0.0,who was panini and what were his contributions
+0,15_7,0.0,0.0,what is the link between linguistics and computer science
+0,17_1,0.0,0.2,what are the different forms of energy
+0,17_2,0.0,0.0,how can it be stored
+0,17_3,0.0,0.0,what type of energy is used in motion
+0,17_4,0.23463936301137822,0.07142857142857142,tell me about mechanical energy
+0,17_5,0.0,0.0,give me some examples
+0,17_6,0.23463936301137822,0.1,why is sound a form of mechanical energy
+0,17_7,0.0,0.1,how does it differ from potential energy
+0,17_8,0.0,0.0,are potential and kinetic the same
+0,17_9,0.0,0.0,what type does chemical energy belong to
+0,17_10,0.0,0.0,what form of energy is used in eating
+0,18_1,0.0,0.1111111111111111,describe uranus
+0,18_2,0.0,0.0,what makes it so unusual
+0,18_3,0.0,0.0,tell me about its orbit
+0,18_4,0.0,0.0,why is it tilted
+0,18_5,0.0,0.0,how is its rotation different from other planets
+0,18_6,0.0,0.0,what is peculiar about its seasons
+0,18_7,0.0,0.0,are there any other planets similar to it
+0,18_8,0.0,0.2857142857142857,describe the characteristics of neptune
+0,18_9,0.0,0.0,why is it important to our solar system
+0,18_10,0.0,0.0,how are these two planets similar to each other
+0,18_11,0.0,0.0,can life exist on either of them
+0,22_1,0.0,0.5,what are the most common spices used in cooking
+0,22_2,0.0,0.0,how are they different from herbs
+0,22_3,0.0,0.0,why do spices taste good
+0,22_4,0.0,0.0,where do most of them come from
+0,22_5,0.0,0.0,what cuisines use them heavily
+0,22_6,0.0,0.0,what are the most popular indian ones
+0,22_7,0.0,0.0,tell me about turmeric
+0,22_8,0.0,0.0,are there any benefits of consuming it
+0,22_9,0.0,0.0,what is the oldest spice
+0,22_10,0.0,0.0,what is the most expensive and why
+0,23_1,0.5,1.0,what are the main types of cattle farming
+0,23_2,0.20151514190050246,0.75,what breeds produce the most milk
+0,23_3,0.0,0.0,how much do holsteins produce
+0,23_4,0.0,0.0,what is special about jersey milk
+0,23_5,0.0,0.0,do we eat dairy cows
+0,23_6,0.0,0.0,what are the most common breeds for meat
+0,23_7,0.0,0.0,where are angus beef from
+0,23_8,0.0,0.0,how much space do they need
+0,24_1,0.0,0.0,how can i help my friend stop smoking
+0,24_2,0.0,0.0,what are its long term effects
+0,24_3,0.0,0.0,does it cause cancer
+0,24_4,0.0,0.0,what makes it so addictive
+0,24_5,0.0,0.3333333333333333,are there any alternatives to nicotine
+0,24_6,0.0,0.3333333333333333,how effective are the patches
+0,24_7,0.4796249331362629,0.5,tell me about the cold turkey method
+0,24_8,0.0,1.0,describe typical withdrawal symptoms
+0,25_1,0.23463936301137822,0.07692307692307693,tell me about orca whales
+0,25_2,0.0,0.0,are they really whales
+0,25_3,0.0,0.0,how do they hunt
+0,25_4,0.0,0.0,what do they eat
+0,25_5,0.0,0.0,where did they get their name
+0,25_6,0.0,0.0,are they dangerous
+0,25_7,0.0,0.0,where can go to watch them
+0,25_8,0.0,0.0,when is a good season for spotting them
+0,25_9,0.0,0.6666666666666666,how does captivity affect them
+0,27_1,0.0,0.0,what comprises a balanced diet
+0,27_2,0.0,0.0,is it the same for men as well as women
+0,27_3,0.0,0.0,what are some specific recommendations for women
+0,27_4,0.0,0.0,are dairy products necessary for a good health
+0,27_5,0.0,0.0,can it harm you instead
+0,27_6,0.0,0.0,how necessary is fiber
+0,27_7,0.0,0.0,what happens if it s consumed in a smaller amount than recommended
+0,30_1,0.0,0.6666666666666666,what are some advantages of using linux
+0,30_2,0.0,0.5714285714285714,can i run windows software in it
+0,30_3,0.0,0.0,how does it compare to windows
+0,30_4,0.0,0.0,which of these is more popular
+0,30_5,0.0,0.0,how do i install software on it
+0,30_6,0.0,0.0,what is an easy way to install python
+0,30_7,0.0,0.0,tell me about how i can share files
+0,31_1,0.3086598407528445,0.2247191011235955,what is throat cancer
+0,31_2,0.0740204777414663,0.012987012987012988,is it treatable
+0,31_3,0.23463936301137822,0.15204678362573099,tell me about lung cancer
+0,31_4,0.0,0.01020408163265306,what are its symptoms
+0,31_5,0.0,0.017241379310344827,can it spread to the throat
+0,31_6,0.25603181613369436,0.23809523809523808,what causes throat cancer
+0,31_7,0.0,0.0,what is the first sign of it
+0,31_8,0.0,0.014705882352941176,is it the same as esophageal cancer
+0,31_9,0.0,0.0,what s the difference in their symptoms
+0,32_1,0.1564262420075855,0.10416666666666667,what are the different types of sharks
+0,32_2,0.589381114730088,0.5074626865671642,are sharks endangered if so which species
+0,32_3,0.45670079623577714,0.21428571428571427,tell me more about tiger sharks
+0,32_4,0.0,0.0,what is the largest ever to have lived on earth
+0,32_5,0.0,0.0,what s the biggest ever caught
+0,32_6,0.0,0.058823529411764705,what about for great whites
+0,32_7,0.0,0.11363636363636363,tell me about makos
+0,32_8,0.0,0.0,what are their adaptations
+0,32_9,0.0,0.0,where do they live
+0,32_10,0.0,0.0,what do they eat
+0,32_11,0.0,0.0,how do they compare with tigers for being dangerous
+0,33_1,0.1409483247803037,0.5,tell me about the neverending story film
+0,33_2,0.0,0.0,what is it about
+0,33_3,0.0,0.0,how was it received
+0,33_4,0.0,0.0,did it win any awards
+0,33_5,0.0,0.0,was it a book first
+0,33_6,0.0,0.0,who was the author and when what it published
+0,33_7,0.0,0.0,what are the main themes
+0,33_8,0.0,0.0,who are the main characters
+0,34_1,0.5307212739772434,0.5352112676056338,tell me about the bronze age collapse
+0,34_2,0.0,0.03125,what is the evidence for it
+0,34_3,0.0,0.0,what are some of the possible causes
+0,34_4,0.9413401592471554,0.5,who were the sea peoples
+0,34_5,0.0,0.0,what was their role in it
+0,34_6,0.17597952225853367,0.03333333333333333,what other factors led to a breakdown of trade
+0,34_7,0.0,0.0,what about environmental factors
+0,34_8,0.0,0.09523809523809523,what empires survived
+0,37_1,0.45670079623577714,0.43103448275862066,what was the stanford experiment
+0,37_2,0.0,0.0,what did it show
+0,37_3,0.0,0.0,tell me about the author of the experiment
+0,37_4,0.0,0.0,was it ethical
+0,37_5,0.0,0.03125,what are other similar experiments
+0,37_6,0.12463048596536717,0.5675675675675675,what happened in the milgram experiment
+0,37_7,0.0,0.0,why was it important
+0,37_8,0.0,0.0,what were the similarities and differences between the studies
+0,40_1,0.7039180890341347,0.45454545454545453,what are the origins of popular music
+0,40_2,0.0,0.0,what are its characteristics
+0,40_3,0.06231524298268359,0.05555555555555555,what technological developments enabled it
+0,40_4,0.06231524298268359,0.061224489795918366,when and why did people start taking pop seriously
+0,40_5,0.1352669425211465,0.3333333333333333,how has it been integrated into music education
+0,40_6,0.6759795222585336,0.345679012345679,describe some of the influential pop bands
+0,40_7,0.589381114730088,0.5316455696202531,what makes a song pop punk
+0,40_8,0.0,0.6666666666666666,what is the difference between it and emo
+0,49_1,0.0,0.08,how was netflix started
+0,49_2,0.0,0.0,how did it originally work
+0,49_3,0.0,0.16666666666666666,what is its relationship with blockbuster
+0,49_4,0.2655788107456709,0.43478260869565216,when did netflix shift from dvds to a streaming service
+0,49_5,0.0,0.0,what are its other competitors
+0,49_6,0.19004688335796713,0.15,how does it compare to amazon prime video
+0,49_7,0.0,0.0784313725490196,describe it s subscriber growth over time
+0,49_8,0.0,0.0,how has it changed the way tv is watched
+0,50_1,0.41340159247155434,0.40789473684210525,what was the first artificial satellite
+0,50_2,0.23463936301137822,0.14414414414414414,what are the types of orbits
+0,50_3,0.20670079623577717,0.07547169811320754,what are the important classes of satellite
+0,50_4,0.0740204777414663,0.16470588235294117,how do navigation systems work
+0,50_5,0.2960819109658652,0.5,what is the galileo system and why is it important
+0,50_6,0.0,0.0,why did it create tension with the us
+0,50_7,0.9413401592471554,0.5619047619047619,what are cubesats
+0,50_8,0.0,0.0,what are their advantages
+0,54_1,0.0,0.06,what is worth seeing in washington d c
+0,54_2,0.0,0.25,which smithsonian museums are the most popular
+0,54_3,0.0,0.38,why is the national air and space museum important
+0,54_4,0.0,0.6,is the spy museum free
+0,54_5,0.0,0.10526315789473684,what is there to do in dc after the museums close
+0,54_6,0.0,0.0,what is the best time to visit the reflecting pools
+0,54_7,0.0,0.0,are there any famous foods
+0,54_8,0.46927872602275644,0.25,what is a dc half smoke
+0,54_9,0.0,0.0,tell me about its history
+0,56_1,0.35195904451706733,0.18867924528301888,what is darwin s theory in a nutshell
+0,56_2,0.0,0.0,how was it developed
+0,56_3,0.2818966495606074,0.4375,how do sexual and asexual reproduction affect it
+0,56_4,0.0,0.013888888888888888,how can fossils be used to understand it
+0,56_5,0.11731968150568911,0.14545454545454545,what is modern evidence for it
+0,56_6,0.17597952225853367,0.1016949152542373,what is the impact on modern biology
+0,56_7,0.867319681505689,0.5094339622641509,compare and contrast microevolution and macroevolution
+0,56_8,0.0,0.18421052631578946,what is the relationship to speciation
+0,58_1,0.0,0.13793103448275862,what is a real time database
+0,58_2,0.0,0.0,how does it differ from traditional ones
+0,58_3,0.0,0.14,what are the advantages of real time processing
+0,58_4,0.0,0.0,what are examples of important ones
+0,58_5,0.0,0.038461538461538464,what are important applications
+0,58_6,0.0,0.13636363636363635,what are important cloud options
+0,58_7,0.0,0.25,tell me about the firebase db
+0,58_8,0.0,0.0,how is it used in mobile apps
+0,59_1,0.11731968150568911,0.22857142857142856,which weekend sports have the most injuries
+0,59_2,0.38268031849431083,0.15384615384615385,what are the most common types of injuries
+0,59_3,0.5307212739772434,0.09302325581395349,what is the acl
+0,59_4,0.0,0.0,what is an injury for it
+0,59_5,0.0,0.041666666666666664,tell me about the rice method
+0,59_6,0.0,0.0,is there disagreement about it
+0,59_7,0.0,0.022222222222222223,what is arnica used for
+0,59_8,0.35195904451706733,0.10714285714285714,what are some ways to avoid injury
+0,61_1,0.22061088123237793,0.22758620689655173,who are the avengers
+0,61_2,0.0,0.0,tell me about their first appearance
+0,61_3,0.0,0.0,who is the most powerful and why
+0,61_4,0.0,0.013333333333333334,what is the relationship of spider man to the team
+0,61_5,0.23981246656813146,0.22641509433962265,why is batman not a member
+0,61_6,0.33938111473008803,0.25301204819277107,what is an important team in the dc universe
+0,61_7,0.1973879406439102,0.38095238095238093,tell me about the origins of the justice league
+0,61_8,0.0,0.0,who are the important members
+0,67_1,0.0,0.046511627906976744,why is blood red
+0,67_2,0.0,0.09803921568627451,what are red blood cells
+0,67_3,0.0,0.0,how are they created
+0,67_4,0.22206143322439892,0.03409090909090909,how is oxygen transported
+0,67_5,0.0740204777414663,0.1111111111111111,what is anemia
+0,67_6,0.0,0.012658227848101266,what are the symptoms
+0,67_7,0.0,0.0,can it go away
+0,67_8,0.0,0.0,what are its possible causes
+0,67_9,0.0,0.0,how is it treated
+0,67_10,0.0,0.02857142857142857,what foods contain high levels of iron
+0,67_11,0.0,0.0,what improves absorption
+0,68_1,0.13268031849431086,0.23255813953488372,what is cuisine is emilia romagna famous for
+0,68_2,0.0,0.17647058823529413,tell me about cooking schools and classes
+0,68_3,0.0,0.0,what are famous foods from the region
+0,68_4,0.8826803184943108,0.3389830508474576,describe the traditional process for making balsamic vinegar
+0,68_5,0.7067007962357771,0.5217391304347826,what is mortadella and where is it from
+0,68_6,0.0,0.02857142857142857,what s the difference with bologna
+0,68_7,0.22206143322439892,0.23255813953488372,where was parmesan cheese created
+0,68_8,0.30063051302795313,0.25842696629213485,what is done with the whey after production
+0,68_9,0.11731968150568911,0.17,what are typical pasta dishes
+0,68_10,0.617319681505689,0.24285714285714285,what is the history of tagliatelle al ragu bolognese
+0,68_11,0.0,0.0,what are its common variations
+0,69_1,0.0,0.20689655172413793,how do you sleep after jet lag
+0,69_2,0.0,0.05128205128205128,does melatonin help
+0,69_3,0.0,0.0,how was it discovered
+0,69_4,0.0,0.0,what are good sources in food
+0,69_5,0.0,0.1,is melatonin bad for you
+0,69_6,0.0,0.0,what are the side effects
+0,69_7,0.0,0.0,why does it require a prescription in the uk
+0,69_8,0.0,0.0,how can i increase my levels naturally
+0,69_9,0.0,0.20689655172413793,is it effective for treating insomnia
+0,69_10,0.0,0.0,how about for anxiety
+0,75_1,0.0,0.29411764705882354,why do turkey and turkey share the same name
+0,75_2,0.0,0.09615384615384616,where are turkeys from
+0,75_3,0.0,0.0,what was their importance in native cultures
+0,75_4,0.09502344167898356,0.1111111111111111,when and how were they domesticated
+0,75_5,0.0,0.0,can they fly
+0,75_6,0.0,0.09523809523809523,why did ben franklin want it to be the national symbol
+0,75_8,0.0,0.21052631578947367,why is it eaten on thanksgiving
+0,77_1,0.20290041378171972,0.20512820512820512,what s the difference between soup and stew
+0,77_2,0.0,0.0,is chilli a stew
+0,77_3,0.1352669425211465,0.38461538461538464,how about goulash
+0,77_4,0.0,0.0,what are popular ones in france
+0,77_5,0.42424731131432475,0.5555555555555556,how is cassoulet made
+0,77_6,0.9323665287394267,0.475,tell me about feijoada and its significance
+0,77_7,0.31939394323979897,0.2571428571428571,how is it similar or different from cassoulet
+0,77_8,0.5088552337253291,0.4375,tell about bigos stew
+0,78_1,0.0,0.08771929824561403,what is the keto diet
+0,78_2,0.0,0.0,why was it original developed
+0,78_3,0.46927872602275644,0.16666666666666666,what is ketosis
+0,78_4,0.270533885042293,0.05263157894736842,what is paleo
+0,78_5,0.0,0.0,what do they have in common
+0,78_6,0.0,0.0,how are they different
+0,78_7,0.3059548199436094,0.2702702702702703,what is intermittent fasting
+0,78_8,0.0,0.0,how is it related to keto
+0,79_1,0.11731968150568911,0.3490566037735849,what is taught in sociology
+0,79_2,0.39804095548293256,0.2803738317757009,what is the main contribution of auguste comte
+0,79_3,0.22206143322439892,0.3490566037735849,what is the role of positivism in it
+0,79_4,0.1480409554829326,0.3333333333333333,what is herbert spencer known for
+0,79_5,0.0,0.12195121951219512,how is his work related to comte
+0,79_6,0.19134015924715542,0.2727272727272727,what is the functionalist theory
+0,79_7,0.0,0.0,what is its main criticism
+0,79_8,0.0,0.23529411764705882,how does it compare to conflict theory
+0,79_9,0.0,0.4,what are modern examples of conflict theory
+0,81_1,0.0,0.044444444444444446,how do you know when your garage door opener is going bad
+0,81_2,0.0,0.0,now it stopped working why
+0,81_3,0.0,0.0,how much does it cost for someone to fix it
+0,81_4,0.0,0.0,how about replacing it instead
+0,81_5,0.0,0.0,how do i choose a new one
+0,81_6,0.0,0.0,what does a smart one do
+0,81_7,0.0,0.0,what s important for me to know about their safety
+0,81_8,0.0,0.0,how could they be hacked
+0,82_1,0.6666666666666667,0.2403846153846154,i would like to learn about gmo food labeling
+0,82_2,0.0,0.0,what are the pros and cons
+0,82_3,0.0,0.0,and what about the cons
+0,82_4,0.0,0.025,what are the eu rules
+0,82_5,0.09271639884807328,0.4583333333333333,tell me more about traceability tools
+0,82_6,0.0,0.0,what is the role of co extra
+0,82_7,0.0,0.0,how is testing done for contamination
+0,82_8,0.0,0.0,what s the difference between the european and us approaches
+0,82_9,0.0,0.08,how does the dna based method work
+0,82_10,0.0,0.0,how could co extra improve it
+0,83_1,0.5307212739772436,0.16129032258064516,what are some interesting facts about bees
+0,83_2,0.0,0.0,why doesn t it spoil
+0,83_3,0.0,0.0,why are so many dying
+0,83_4,0.0,0.0,what can be done to stop it
+0,83_5,0.0,0.0,what has happened to their habitat
+0,83_6,0.0,0.0,what can i do to help with the problem
+0,83_7,0.5311576214913418,0.46153846153846156,what is the cause of ccd
+0,83_8,0.0,0.0,what would happen if they died out
+0,84_1,0.25,0.5833333333333334,how does seed investment work for startups
+0,84_2,0.0,0.03225806451612903,tell me more about angel rounds
+0,84_3,0.312852484015171,0.42105263157894735,how does it compare with crowdfunding
+0,84_4,0.0,0.1111111111111111,how much is a typical a series round
+0,84_5,0.0,0.1111111111111111,what are the risks of investing
+0,84_6,0.0,0.0,what are the different types of instruments used by vcs
+0,85_1,0.0,0.023255813953488372,how much does a used lamborghini cost
+0,85_2,0.0,0.04878048780487805,how does it compare to a ferrari
+0,85_3,0.0,0.07894736842105263,interesting what about for a pimped out food truck
+0,85_4,0.0,0.023255813953488372,what licenses and permits are needed
+0,85_5,0.0,0.0,what makes a good location
+0,85_6,0.0,0.0,what is a typical day like
+0,85_7,0.0,0.0,how can i run it successfully
+0,85_8,0.0,0.0,what are some good examples to learn from
+0,85_9,0.0,0.0,besides inventive flavors what made it successful
+0,86_1,0.06763347126057324,0.19230769230769232,what is the climate like in utah
+0,86_2,0.0,0.0,how does salt lake city differ
+0,86_3,0.0,0.0,what is its main economic activity
+0,86_4,0.0,0.14285714285714285,what was the impact of the 2002 games
+0,86_5,0.0,0.027777777777777776,what were important ski locations used
+0,86_6,0.0,0.0,what are the important non ski events that happen in the city
+0,86_7,0.0,0.0,what about some popular non winter things to do in the area
+0,87_1,0.0,0.09803921568627451,what are the different types of orange trees
+0,87_2,0.0,0.0,how can you tell them apart
+0,87_3,0.0,0.0,what type has thorns
+0,87_4,0.0,0.0,where do they originally come from
+0,87_5,0.0,0.09090909090909091,tell me about the hamlin variety
+0,87_7,0.08484946226286495,0.06666666666666667,what are the different types of navels
+0,87_8,0.0,0.0,which is the most delicious
+0,87_9,0.0,0.2,how do they compare with blood oranges
+0,88_1,0.0986939703219551,0.2,can i have some information on the labor systems of the ottoman empire
+0,88_2,0.0,0.024390243902439025,what was the role of slavery
+0,88_3,0.0,0.0,how did it govern
+0,88_4,0.0,0.0,why was it important
+0,88_5,0.0,0.0,what was the culture like
+0,88_6,0.0,0.14285714285714285,what was the role of storytellers
+0,88_7,0.0,0.0,what were popular stories
+0,88_8,0.0,0.3137254901960784,what was the importance of the millet
+0,88_9,0.0,0.0,why did the british continue it
+0,88_10,0.0,0.0,what is its historical importance in developing national identities
+0,89_1,0.7653606369886217,0.3118279569892473,what is the relationship between predator and prey
+0,89_2,0.0,0.0,what do predator plants eat
+0,89_3,0.0,0.0,what about venus flytraps in particular
+0,89_4,0.0,0.0,where is it native to
+0,89_5,0.0,0.0,how do they attract and catch their prey
+0,89_6,0.0,0.0,what are other similar plants from its native area
+0,89_7,0.7653606369886217,0.265625,how do populations of predators and prey relate
+0,89_8,0.0,0.07692307692307693,why would the roles reverse
+0,89_9,0.0,0.08163265306122448,how does the relationship influence biodiversity
+0,89_10,0.23463936301137822,0.10588235294117647,what are examples of these predators
+0,89_11,0.0,0.07317073170731707,why would humans be considered one
+0,90_1,0.0,0.0625,which is the biggest commercial plane
+0,90_2,0.0,0.0,what are its operational costs
+0,90_3,0.0,0.1,how does its fuel consumption compare to its competitors
+0,90_4,0.15969697161989949,0.1111111111111111,how do the freighter versions compare to each other
+0,90_5,0.0,0.5,why did the a380 stop being produced
+0,90_6,0.0,0.5,what was boeing s response to compete with it
+0,90_7,0.0,0.0,what is the newest version and what is better about it
+0,90_8,0.0,0.0,what are the differences between the variants
+0,91_1,0.6264117087958174,0.11363636363636363,what is the purpose of gdpr
+0,91_2,0.0,0.0,what is different compared to previous legislation
+0,91_3,0.0,0.13793103448275862,what are the privacy implications of those technologies
+0,91_4,0.0,0.25,oh ip addresses are considered pii what is the full range of personal data
+0,91_5,0.0,0.0,how do big companies adapt to gdpr
+0,91_6,0.48516021732359466,0.6222222222222222,ok tell me about the privacy issues in social networks
+0,91_7,0.0,0.16,what do they get in return for their privacy
+0,91_8,0.0,0.23529411764705882,what are the symptoms of that addiction
+0,92_1,0.2960819109658653,0.1111111111111111,do shoulder braces help recover from an injury
+0,92_2,0.0,0.07894736842105263,tell me more about some exercises that could help
+0,92_3,0.0,0.0,what are some others
+0,92_4,0.0,0.0,how do i know if it s serious
+0,92_5,0.0,0.0,when should you consider surgery
+0,92_6,0.0,0.014285714285714285,that seems extreme what are other ways to treat the pain
+0,92_7,0.0,0.0,how do i stop it from hurting at my desk
+0,93_1,0.0,0.08333333333333333,tell me about purchasing a burger king franchise
+0,93_2,0.0,0.0,no not information about its acquisition i want to know how to open a franchise
+0,93_3,0.0,0.0,is there any financial support for the fee
+0,93_4,0.0,0.0,how much does an owner typically make
+0,93_5,0.0,0.07142857142857142,is it better to be a franchise or independent
+0,93_6,0.0,0.0,what support does it provide
+0,94_1,0.0,0.20588235294117646,how did snowboarding begin
+0,94_2,0.0,0.0,interesting that s later than i expected who were the winners
+0,94_3,0.5803165958950902,0.3,what are strap in bindings
+0,94_4,0.0,0.0,what s an alternative to this binding style
+0,94_5,0.0,0.0,what else do i need for my first time
+0,94_6,0.0,0.0,how can i teach myself to get started
+0,94_7,0.0,0.0,what are the best slopes in seattle
+0,94_8,0.0,0.0,what are other things to do at bachelor
+0,95_1,0.6763347126057324,0.5,how are waste and garbage processed
+0,95_2,0.23463936301137822,0.043478260869565216,interesting what is the impact of burning on the environment
+0,95_3,0.0,0.07142857142857142,so you can compact them why does it slow the waste processing
+0,95_4,0.1706878774224629,0.3469387755102041,how is sewage recycled
+0,95_5,0.0,0.13333333333333333,what are the pros and cons of recycling vs composting
+0,95_6,0.5586598407528446,0.5,tell me more about biodegradable plastics
+0,95_7,0.0,0.0,how are they made
+0,95_8,0.0,0.03125,how is corn oil used
+0,96_1,1.0,0.72,how do you make japanese yakiniku
+0,96_3,0.0,1.0,what are the best yakiniku restaurants in tokyo
+0,96_4,0.35195904451706733,0.175,tell me about three star michelin sushi restaurants there
+0,96_5,0.0,0.0,oh you need an agent to make reservations
+0,96_6,0.0,0.0,tell me other fun things to do there
+0,96_7,0.0,0.014285714285714285,what is the cost of living there compared to nyc
+0,96_8,0.0,0.375,what is the salary of foreign law firms there
+0,97_1,0.12463048596536717,0.29347826086956524,who are the rivals of the steelers
+0,97_2,0.23463936301137822,0.7464788732394366,what are notable games between ravens versus steelers
+0,97_3,0.0,0.0,and notable moments in their rivalry
+0,97_4,0.0,0.25,tell me more about that polamalu s interception
+0,97_5,0.0,0.0,how about his pick 6
+0,97_6,0.41340159247155434,0.9347826086956522,tell me more about the immaculate reception
+0,97_7,0.0,0.0,what happened to the stadium
+0,97_8,0.0,0.0,tell me more about their defense
+0,98_1,0.11731968150568911,0.4864864864864865,what is the environmental cost of food production
+0,98_2,0.0,0.15384615384615385,oh that much water how is that for meat
+0,98_3,0.0,0.0,how much less is used for vegetables
+0,98_4,0.0,0.15384615384615385,what are the benefits of being vegetarian
+0,98_5,0.0,0.0,are there any health concerns
+0,98_6,0.0,0.02857142857142857,what are their sources of proteins
+0,98_7,0.0,0.1111111111111111,oh almonds can you show me recipes with it
+0,98_8,0.0,0.0,how do you make the flour
+0,99_1,0.0,0.0625,what is high blood carbon dioxide
+0,99_2,0.0,0.0,what should you do to treat it
+0,99_3,0.2960819109658653,0.022727272727272728,how about high cholesterol
+0,99_4,0.0,0.0,what should i eat to improve it
+0,99_5,0.2960819109658653,0.20689655172413793,what are the differences between the two fats
+0,99_6,0.0,0.0,so there are two types is the other fat good for you
+0,99_7,0.0,0.0,oh i like fish what other foods are good sources
+0,99_8,0.0,0.0,what types does olive oil contain
+0,100_1,0.0,0.0,what causes my teeth to chip off
+0,100_2,0.0,0.0,oh what can they do to fix it
+0,100_3,0.0,0.0,i have a larger chip how do the options different
+0,100_4,0.0,0.0625,a crown sounds better what about using an implant
+0,100_5,0.0,0.0,which one is more expensive
+0,100_6,0.0,0.0,what is the coverage of the crown in insurance
+0,100_7,0.0,0.0,i meant medicare
+0,100_8,0.0,0.0,show me covered dentists in seattle
+0,101_1,0.23463936301137822,0.2,what is melania trump s religion
+0,101_2,0.0,0.0,what did she do before she was married
+0,101_3,0.0,0.0,does she have children
+0,101_4,0.0,0.0,how old is he
+0,101_5,0.0,0.2222222222222222,they met at the kit kat club where is that
+0,101_6,0.0,0.0,when did she become a model
+0,101_7,0.0,0.21739130434782608,do we pay the first lady
+0,101_8,0.0,0.0,what about ivanka
+0,101_9,0.0,0.0,and jared
+0,101_10,0.0,0.0,what does he do at the white house
+0,102_1,0.0,0.05555555555555555,when did social security start in the us
+0,102_2,0.0,0.13636363636363635,was it mandatory
+0,102_3,0.0,0.13333333333333333,who received the first check
+0,102_4,0.0,0.07142857142857142,when did the government start borrowing from it
+0,102_5,0.0,0.0,how much is owed
+0,102_6,0.0,0.0,when will it run out of money
+0,102_7,0.0,0.0,wow what will happen
+0,102_8,0.0,0.0,can it be fixed
+0,102_9,0.0,0.0,how much of an increase
+0,103_1,0.35195904451706733,0.4117647058823529,why were the dead such an influential live band
+0,103_2,0.527938566775601,0.07142857142857142,why did they allow live recordings
+0,103_3,0.0,0.0,did they have a 1 hit
+0,103_4,0.0,0.0,who was the leader
+0,103_5,0.0,0.0625,how did he lose his finger
+0,103_6,0.0,0.019230769230769232,what was his relationship to the airplane
+0,103_8,0.0,0.0,who wrote it
+0,103_9,0.0,0.0,what else did they write
+0,103_10,0.0,0.0,why did the band break up
+0,104_1,0.1352669425211465,0.15789473684210525,who are some of the well known information retrieval researchers
+0,104_3,0.0,0.0,who are some important british ones
+0,104_4,0.0,0.0,what did his studies contribute to evaluation
+0,104_6,0.0,0.0,how did they influence modern initiatives
+0,104_7,0.08534393871123146,0.7619047619047619,what is trec
+0,104_8,0.0,0.0,what are some recent tasks
+0,104_9,0.0,0.02631578947368421,e discovery what s that
+0,104_10,0.0,0.0,what are the important components of a test collection
+0,104_12,0.0,0.05263157894736842,what are important measures for web search engines
+0,104_13,0.0,0.0,what about online ones
+0,105_1,0.24926097193073435,0.5,when did the black lives matter campaign begin
+0,105_2,0.0,0.0,tell me more about what happened
+0,105_3,0.0,0.0,why was he acquitted
+0,105_4,0.2850703250369507,0.05555555555555555,and how about what happened to brown
+0,105_5,0.0,0.0,who named the movement
+0,105_6,0.0,0.0,what was the us reaction to it
+0,105_7,0.0,0.2,tell me more about the movement of the police supporters
+0,105_8,0.0,0.0,why were they killed
+0,105_9,0.45250815297345076,0.4166666666666667,what else motivates the black lives matter movement
+0,106_1,0.0,0.0,i just had a breast biopsy for cancer what are the most common types
+0,106_2,0.0,0.0,once it breaks out how likely is it to spread
+0,106_3,0.0,0.0,how deadly is it
+0,106_4,0.0,0.0,what no i want to know about the deadliness of lobular carcinoma in situ
+0,106_5,0.0,0.0,wow that s better than i thought what are common treatments
+0,106_6,0.0,0.0,how does it behave differently from plcis
+0,106_7,0.0,0.0,what makes lobular cancer distinct
+0,106_8,0.0,0.0,for the first stage what are the alternatives to surgery
+0,106_10,0.0,0.0,does freezing work
+0,107_1,0.0,0.0,how do i build a cheap driveway
+0,107_2,0.0,0.0,which is cheaper concrete or asphalt
+0,107_3,0.0,0.0,really what type of product
+0,107_4,0.0,0.0,who knew which is more environmentally friendly
+0,107_5,0.0,0.0,no which type of driveway is better for the environment
+0,107_6,0.0,0.0,and most low maintenance
+0,107_7,0.0,0.0,really what about asphalt
+0,107_8,0.0,0.0,is sealing worth it
+0,108_1,0.0,0.0,how can fires help an ecosystem
+0,108_2,0.0,0.0,give me some examples
+0,108_3,0.0,0.0,cool name what are other fire followers
+0,108_4,0.0,0.0,let s talk about other environmental influences besides fire more broadly what are the effects of agriculture
+0,108_5,0.0,0.0,can it cause desertification
+0,108_6,0.0,0.0,what does it mean to be tired
+0,108_7,0.0,0.0,that sounds like organic farming how are they related
+0,108_8,0.0,0.0,does organic farming reduce global warming and if so how
+0,110_1,0.0,0.0,what are the benefits of cow milk
+0,110_2,0.0,0.0,what about an alternative i ve heard it s also made from almonds
+0,110_3,0.0,0.0,which is healthiest
+0,110_4,0.0,0.0,no the vegan ones which of those alternatives is healthiest
+0,110_5,0.0,0.0,can i make it at home
+0,110_6,0.0,0.0,oat seems popular now why
+0,110_7,0.0,0.0,i m going to bake some cookies which one would be the best to use
+0,110_8,0.0,0.0,what would be second best
+0,110_9,0.0,0.0,what is the best in my morning latte
+0,111_1,0.0,0.0,i saw a tesla roadster today which made me wonder what is the world s fastest car
+0,111_2,0.0,0.0,what is the first based on
+0,111_3,0.0,0.0,how fast can the unmodified base car go
+0,111_4,0.0,0.0,no i meant the lotus
+0,111_5,0.0,0.0,can any go over 300 mph
+0,111_6,0.0,0.0,what is the origin of funny cars why do they call them that
+0,111_7,0.0,0.0,how fast did it go
+0,111_8,0.0,0.0,no i meant the funny car but that s interesting i heard it has a ludicrous mode how does its quickness compare to the venom
+0,111_9,0.0,0.0,it sounds like the tesla is very competitive what makes its engine unique compared with gas ones
+0,112_1,0.0,0.0,what s the history of steroid use in sports in the us
+0,112_2,0.0,0.0,what were ziegler s improvements
+0,112_3,0.0,0.0,why are they banned
+0,112_4,0.0,0.0,are there visible signs
+0,112_5,0.0,0.0,that sounds easy to spot how do they get away with it
+0,112_6,0.0,0.0,what is the nfl policy
+0,112_7,0.0,0.0,isn t that speed
+0,112_9,0.0,0.0,i heard it even affects card players didn t bridge also have a problem
+0,113_1,0.0,0.0,how do genes work
+0,113_2,0.0,0.0,what other diseases are caused by a single change
+0,113_3,0.0,0.0,what are the other types of diseases
+0,113_4,0.0,0.0,you missed the second type of disease what was that
+0,113_5,0.0,0.0,that s not what i wanted how about recent developments in gene therapy to treat those defects
+0,113_6,0.0,0.0,what are they worried about
+0,113_7,0.0,0.0,no i meant in humans
+0,113_8,0.0,0.0,it sounds like it could be used in many places what other types of organisms has it been tried on
+0,115_1,0.0,0.0,how are mental health disorders perceived and addressed around the world
+0,115_2,0.0,0.0,what are the causes of stigma in africa
+0,115_3,0.0,0.0,could you expand on some of these methods
+0,115_4,0.0,0.0,how effective are these methods and could they be combined with western medicine
+0,115_5,0.0,0.0,okay now what about the causes in asia
+0,115_6,0.0,0.0,is there a relationship between these values and mental illness in the region
+0,115_7,0.0,0.0,wow besides these values what other factors could cause stigmatization
+0,115_8,0.0,0.0,what about the causes in north america
+0,115_9,0.0,0.0,hmm what has the alliance done to help
+0,115_10,0.0,0.0,i found the indian student s approach to treating depression interesting have their approaches been tried elsewhere
+0,115_11,0.0,0.0,can you tell me more about chibanda s approach how effective has it been
+0,116_1,0.0,0.0,how are literary devices used in biblical poetry
+0,116_2,0.0,0.0,that s interesting how is it defined
+0,116_3,0.0,0.0,how did those traditions affect them
+0,116_4,0.0,0.0,that s interesting about christianity how are devices used in islamic ones
+0,116_5,0.0,0.0,okay how does the use of rhyme in biblical poetry compare
+0,116_6,0.0,0.0,why didn t it use rhymes as much
+0,116_7,0.0,0.0,ahh it seems like rhyming and parallelism share similar functions how did both types of poetry influence other kinds of poetry
+0,116_8,0.0,0.0,did biblical poetry have a similar impact
+0,117_1,0.0,0.0,a friend said there were massive protests in nigeria towards the end of 2020 what happened
+0,117_2,0.0,0.0,why was the squad established in the first place
+0,117_3,0.0,0.0,what s an example of those reasons
+0,117_4,0.0,0.0,how did the international community respond
+0,117_5,0.0,0.0,okay but i meant their response to the endsars protests
+0,117_6,0.0,0.0,did that help
+0,117_8,0.0,0.0,that s cool tell me more about them
+0,117_9,0.0,0.0,there was mention of the protection of black lives earlier how is it related to this movement
+0,117_10,0.0,0.0,what role did women play in that
+0,118_1,0.0,0.0,i like fashion and animals what career options should i consider
+0,118_2,0.0,0.0,becoming a fashion designer sounds interesting what s the job outlook
+0,118_3,0.0,0.0,how can i get a degree in it
+0,118_4,0.0,0.0,okay what does the portfolio usually consist of
+0,118_5,0.0,0.0,what are the common entry requirements for the degree
+0,118_6,0.0,0.0,i ll consider those how about my options for my other interest
+0,118_7,0.0,0.0,not quite i want to know about career opportunities related to animals
+0,118_8,0.0,0.0,how do i become a vet
+0,119_1,0.0,0.0,my dog has been shaking and tilting its head a lot recently what could be wrong
+0,119_2,0.0,0.0,i just checked and there s swelling in the outer portion what could it be
+0,119_3,0.0,0.0,how dangerous could these be
+0,119_4,0.0,0.0,i live in a remote area how can i treat it at home
+0,119_5,0.0,0.0,my cat is also having similar symptoms would that work for her as well
+0,119_6,0.0,0.0,thanks i am also worried that they are susceptible to the coronavirus
+0,119_7,0.0,0.0,okay but i also heard that a few have been reported to be infected
+0,119_8,0.0,0.0,how can i protect them
+0,121_1,0.0,0.0,i remember there was a global coffee shortage some time ago can you tell me more about that
+0,121_2,0.0,0.0,what caused the drought
+0,121_3,0.0,0.0,i also heard that other latin american countries had coffee production issues was the disruption widespread
+0,121_4,0.0,0.0,it sounds like they are not related what are its origins and how did it spread
+0,121_5,0.0,0.0,okay the us government tried to help the situation what did they do to help
+0,121_6,0.0,0.0,no i want to know what they did to help with the coffee rust epidemic in latin america
+0,121_7,0.0,0.0,okay what did big coffee companies do how did they try to help
+0,121_8,0.0,0.0,how did all these affect global consumption
+0,124_1,0.0,0.0,i just watched the first jurassic park movie and i got interested in dinosaurs and their time on earth can you tell me about the time when dinosaurs actually existed
+0,124_2,0.0,0.0,hmm what else was characteristic about that era
+0,124_3,0.0,0.0,can you tell me more about the fossil records and the theory
+0,124_4,0.0,0.0,what was it like during the time dinosaurs were on earth
+0,124_5,0.0,0.0,that s really cool could such a continent form again
+0,124_6,0.0,0.0,okay you mentioned three periods in the dinosaur era what was characteristic about the first one
+0,124_7,0.0,0.0,what about the second
+0,124_8,0.0,0.0,and the last
+0,124_9,0.0,0.0,what happened to dinosaurs after then
+0,124_10,0.0,0.0,how do the evolution of dinosaurs across the three periods compare
+0,124_11,0.0,0.0,that s interesting how scientifically accurate was the movie
+0,125_1,0.0,0.0,i d like to learn more about frogs what s the biggest one
+0,125_2,0.0,0.0,what s been done to protect them
+0,125_3,0.0,0.0,has that been effective
+0,125_4,0.0,0.0,how can i help
+0,125_5,0.0,0.0,okay that s the biggest what is the smallest
+0,125_6,0.0,0.0,why would leaf litter affect its size
+0,127_1,0.0,0.0,why is it important to reduce runoff in urban areas
+0,127_2,0.0,0.0,what practices could i use at home to help
+0,127_3,0.0,0.0,maybe i could collect it for my garden i d like to learn more about using a barrel what should i consider
+0,127_4,0.0,0.0,i live in seattle and have a big lawn how big should it be how much can i save
+0,127_5,0.0,0.0,that sounds like a lot of water how big are normal barrels and what material should i get what are the pros and cons of different materials
+0,127_6,0.0,0.0,is it safe to use on my garden
+0,127_7,0.0,0.0,what else should i consider when installing it
+0,127_8,0.0,0.0,you also mentioned rain gardens earlier how do they compare
+0,127_9,0.0,0.0,i ll try the garden too what are some native plants for my area that i could use
+0,128_1,0.0,0.0,what s the science behind why we drink alcohol
+0,128_2,0.0,0.0,what are the causes of it
+0,128_3,0.0,0.0,who is at high risk
+0,129_1,0.0,0.0,what are the mechanisms of depression
+0,129_2,0.0,0.0,what is the role of serotonin
+0,129_3,0.0,0.0,how can i balance it
+0,129_4,0.0,0.0,what foods boost it
+0,129_5,0.0,0.0,how does the phenylalanine convert to tyrosine
+0,129_6,0.0,0.0,can these drugs alleviate depression
+0,129_7,0.0,0.0,does this theory explain the cause of depression
+0,129_8,0.0,0.0,can a person have both at the same time
+0,131_1,0.0,0.0,i saw an online ad for a house with descriptions saying it has a heat pump what is that
+0,131_2,0.0,0.0,what are some other choices to heat my home
+0,131_3,0.0,0.0,what are the pros and cons between a gas furnace and a heat pump
+0,131_4,0.0,0.0,a heat pump seems very suitable for my house how much does it cost to install one
+0,131_5,0.0,0.0,which type is better in terms of efficiency
+0,131_6,0.0,0.0,how many years will it take to recoup the investment
+0,131_7,0.0,0.0,that s great what makes it so efficient
+0,131_8,0.0,0.0,cool science but i ve heard some horror stories about air source ones
+0,131_9,0.0,0.0,tell me about ac systems
+0,131_10,0.0,0.0,how is it different from a heat pump

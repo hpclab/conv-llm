@@ -1,0 +1,240 @@
+qid,conv_id,turn,year,raw_utterance
+106_1,106,1,2021,I just had a breast biopsy for cancer. What are the most common types?
+106_2,106,2,2021,"Once it breaks out, how likely is it to spread?"
+106_3,106,3,2021,How deadly is it?
+106_4,106,4,2021,"What? No, I want to know about the deadliness of lobular carcinoma in situ."
+106_5,106,5,2021,"Wow, that's better than I thought.  What are common treatments?"
+106_6,106,6,2021,How does it behave differently from PLCIS?
+106_7,106,7,2021,What makes lobular cancer distinct?
+106_8,106,8,2021,"For the first stage, what are the alternatives to surgery?"
+106_9,106,9,2021,"No, I meant for lobular."
+106_10,106,10,2021,Does freezing work?
+107_1,107,1,2021,How do I build a cheap driveway?
+107_2,107,2,2021,Which is cheaper: concrete or asphalt?
+107_3,107,3,2021,Really?  What type of product?
+107_4,107,4,2021,Who knew?  Which is more environmentally friendly?
+107_5,107,5,2021,No.  Which type of driveway is better for the environment?
+107_6,107,6,2021,And most low-maintenance?
+107_7,107,7,2021,Really? What about asphalt?
+107_8,107,8,2021,Is sealing worth it?
+108_1,108,1,2021,How can fires help an ecosystem?
+108_2,108,2,2021,Give me some examples.
+108_3,108,3,2021,Cool name!  What are other fire-followers?
+108_4,108,4,2021,"Let’s talk about other environmental influences besides fire. More broadly, what are the effects of agriculture?"
+108_5,108,5,2021,Can it cause desertification?
+108_6,108,6,2021,What does it mean to be tired?
+108_7,108,7,2021,That sounds like organic farming.  How are they related?
+108_8,108,8,2021,"Does organic farming reduce global warming, and if so, how?"
+109_1,109,1,2021,Why do cats eat plastic?
+109_2,109,2,2021,Will it kill him?
+109_3,109,3,2021,What?  No.  Will eating plastic kill my cat?
+109_4,109,4,2021,How do I get him to stop?
+109_5,109,5,2021,Should I get a second one?
+109_6,109,6,2021,What are his desires?
+109_7,109,7,2021,What does the slow blink mean?
+110_1,110,1,2021,What are the benefits of cow milk?
+110_2,110,2,2021,What about an alternative. I’ve heard it's also made from almonds?
+110_3,110,3,2021,Which is healthiest?
+110_4,110,4,2021,"No, the vegan ones. Which of those alternatives is healthiest?"
+110_5,110,5,2021,Can I make it at home?
+110_6,110,6,2021,Oat seems popular now.  Why?
+110_7,110,7,2021,I’m going to bake some cookies. Which one would be the best to use?
+110_8,110,8,2021,What would be second best?
+110_9,110,9,2021,What is the best in my morning latte?
+110_10,110,10,2021,"I didn’t expect that. Really, hemp? Say more."
+111_1,111,1,2021,"I saw a Tesla Roadster today which made me wonder, what is the world’s fastest car?"
+111_2,111,2,2021,What is the first based on?
+111_3,111,3,2021,How fast can the unmodified base car go?
+111_4,111,4,2021,"No, I meant the Lotus."
+111_5,111,5,2021,Can any go over 300 mph?
+111_6,111,6,2021,What is the origin of funny cars? Why do they call them that?
+111_7,111,7,2021,How fast did it go?
+111_8,111,8,2021,"No, I meant the funny car.  But, that’s interesting. I heard it has a ludicrous mode. How does its quickness compare to the Venom?"
+111_9,111,9,2021,It sounds like the Tesla is very competitive.  What makes its engine unique compared with gas ones?
+111_10,111,10,2021,I heard they’ve been working on something even faster.
+111_11,111,11,2021,Is the Roadster related to the other super cars we’ve talked about?
+112_1,112,1,2021,What’s the history of steroid use in sports in the US?
+112_2,112,2,2021,What were Ziegler’s improvements?
+112_3,112,3,2021,Why are they banned?
+112_4,112,4,2021,Are there visible signs?
+112_5,112,5,2021,That sounds easy to spot.  How do they get away with it?
+112_6,112,6,2021,What is the NFL policy?
+112_7,112,7,2021,Isn’t that speed?
+112_8,112,8,2021,What is the difference between the two policies?
+112_9,112,9,2021,I heard it even affects card players. Didn't bridge also have a problem?
+112_10,112,10,2021,I know what bridge is. I heard there was a drug scandal recently.
+112_11,112,11,2021,Does the article have more about it?
+113_1,113,1,2021,How do genes work?
+113_2,113,2,2021,What other diseases are caused by a single change?
+113_3,113,3,2021,What are the other types of diseases?
+113_4,113,4,2021,You missed the second type of disease.  What was that?
+113_5,113,5,2021,That’s not what I wanted. How about recent developments in gene therapy to treat those defects?
+113_6,113,6,2021,What are they worried about?
+113_7,113,7,2021,"No, I meant in humans."
+113_8,113,8,2021,It sounds like it could be used in many places. What other types of organisms has it been tried on?
+113_9,113,9,2021,I’ve heard a lot about RNA recently. Can it be used to edit that too?
+113_10,113,10,2021,What’s the difference between the types you mentioned?
+113_11,113,11,2021,"That’s too basic, I’d like a more scientific explanation."
+113_12,113,12,2021,The developments sound exciting. What are the commercial issues using it?
+113_13,113,13,2021,What are the alternatives to avoid licensing issues?
+114_1,114,1,2021,I’m a runner and I’ve been feeling tired. My doctor said my ferritin count is slightly low. What should I do next?
+114_2,114,2,2021,"How about my diet, what should I consider changing?"
+114_3,114,3,2021,"No, I meant to help my ferritin specifically."
+114_4,114,4,2021,What is the difference between the two types?
+114_5,114,5,2021,"I’m vegetarian. So, what can I do to improve it and increase my levels?"
+114_6,114,6,2021,I heard eating eggs might help.
+114_7,114,7,2021,I’m also a woman over 50. How many do I need to eat to get the recommended amount?
+114_8,114,8,2021,"I’m starting to train for a marathon, what should I consider?"
+114_9,114,9,2021,"No, I’m starting to train for a marathon, what is a one week diet?"
+115_1,115,1,2021,How are mental health disorders perceived and addressed around the world?
+115_2,115,2,2021,What are the causes of stigma in Africa?
+115_3,115,3,2021,Could you expand on some of these methods?
+115_4,115,4,2021,How effective are these methods and could they be combined with Western medicine?
+115_5,115,5,2021,"Okay. Now, what about the causes in Asia?"
+115_6,115,6,2021,Is there a relationship between these values and mental illness in the region?
+115_7,115,7,2021,"Wow. Besides these values, what other factors could cause stigmatization?"
+115_8,115,8,2021,What about the causes in North America?
+115_9,115,9,2021,Hmm. What has the Alliance done to help?
+115_10,115,10,2021,I found the Indian student's approach to treating depression interesting. Have their approaches been tried elsewhere?
+115_11,115,11,2021,Can you tell me more about Chibanda's approach? How effective has it been?
+116_1,116,1,2021,How are literary devices used in Biblical poetry?
+116_2,116,2,2021,That's interesting. How is it defined?
+116_3,116,3,2021,How did those traditions affect them?
+116_4,116,4,2021,That's interesting about Christianity. How are devices used in Islamic ones?
+116_5,116,5,2021,Okay. How does the use of rhyme in Biblical poetry compare?
+116_6,116,6,2021,Why didn't it use rhymes as much?
+116_7,116,7,2021,"Ahh, it seems like rhyming and parallelism share similar functions. How did both types of poetry influence other kinds of poetry?"
+116_8,116,8,2021,Did Biblical poetry have a similar impact?
+117_1,117,1,2021,A friend said there were massive protests in Nigeria towards the end of 2020. What happened?
+117_2,117,2,2021,Why was the Squad established in the first place?
+117_3,117,3,2021,What's an example of those reasons?
+117_4,117,4,2021,How did the international community respond?
+117_5,117,5,2021,"Okay, but I meant their response to the EndSars protests."
+117_6,117,6,2021,Did that help?
+117_7,117,7,2021,My friend also mentioned that women were instrumental to the movement. What was their role?
+117_8,117,8,2021,That's cool. Tell me more about them.
+117_9,117,9,2021,There was mention of the protection of Black lives earlier. How is it related to this movement?
+117_10,117,10,2021,What role did women play in that?
+118_1,118,1,2021,I like fashion and animals. What career options should I consider?
+118_2,118,2,2021,Becoming a fashion designer sounds interesting. What's the job outlook?
+118_3,118,3,2021,How can I get a degree in it?
+118_4,118,4,2021,Okay. What does the portfolio usually consist of?
+118_5,118,5,2021,What are the common entry requirements for the degree?
+118_6,118,6,2021,I’ll consider those. How about my options for my other interest?
+118_7,118,7,2021,Not quite. I want to know about career opportunities related to animals.
+118_8,118,8,2021,How do I become a vet?
+118_9,118,9,2021,What are the other steps?
+118_10,118,10,2021,I understand that licenses are required. Tell me more about that.
+118_11,118,11,2021,What about a way to combine both of my interests?
+119_1,119,1,2021,My dog has been shaking and tilting its head a lot recently. What could be wrong?
+119_2,119,2,2021,I just checked and there’s swelling in the outer portion. What could it be?
+119_3,119,3,2021,How dangerous could these be?
+119_4,119,4,2021,I live in a remote area. How can I treat it at home?
+119_5,119,5,2021,My cat is also having similar symptoms. Would that work for her as well?
+119_6,119,6,2021,Thanks. I am also worried that they are susceptible to the coronavirus.
+119_7,119,7,2021,"Okay, but I also heard that a few have been reported to be infected."
+119_8,119,8,2021,How can I protect them?
+119_9,119,9,2021,Ok. But what about my dog?
+120_1,120,1,2021,Why did Michael Jackson go so far to alter his appearance?
+120_2,120,2,2021,What else was it about?
+120_3,120,3,2021,Okay. Did the diet help?
+120_4,120,4,2021,Never mind. Tell me more about the Pepsi commercial.
+120_5,120,5,2021,How so?
+120_6,120,6,2021,Okay. How did it affect his art and legacy?
+121_1,121,1,2021,I remember there was a global coffee shortage some time ago. Can you tell me more about that?
+121_2,121,2,2021,What caused the drought?
+121_3,121,3,2021,I also heard that other Latin American countries had coffee production issues. Was the disruption widespread?
+121_4,121,4,2021,It sounds like they are not related. What are its origins? And how did it spread?
+121_5,121,5,2021,Okay. The US government tried to help the situation. What did they do to help?
+121_6,121,6,2021,"No, I want to know what they did to help with the coffee rust epidemic in Latin America."
+121_7,121,7,2021,Okay. What did big coffee companies do? How did they try to help?
+121_8,121,8,2021,How did all these affect global consumption?
+121_9,121,9,2021,"That’s interesting, consumption is not very elastic. Would investing in it make sense?"
+122_1,122,1,2021,I heard Bernie Sanders was ill recently. What happened?
+122_2,122,2,2021,What did the doctors do?
+122_3,122,3,2021,How did it affect the campaign?
+122_4,122,4,2021,How did he attempt to regain the public's confidence?
+122_5,122,5,2021,Okay. What did the records say?
+122_6,122,6,2021,"Okay, I'd like to know more about his decision."
+122_7,122,7,2021,What about the other candidates? Did they release theirs?
+122_8,122,8,2021,Should there be an age limit on the presidency?
+123_1,123,1,2021,I'm about to become a dad and I want to get fit before it gets too hard. How do I get started?
+123_2,123,2,2021,Okay. Should I try CrossFit?
+123_3,123,3,2021,That sounds very intense but useful for me. How does it compare with just weightlifting?
+123_4,123,4,2021,I would rather be safe. Do the positives outweigh the negatives?
+123_5,123,5,2021,I’ve got four weeks. What about cardio?
+123_6,123,6,2021,Okay. What role will diet play?
+123_7,123,7,2021,What other meal frequencies can I try?
+123_8,123,8,2021,Which one’s better?
+123_9,123,9,2021,Okay. I would eventually like to spend time with my baby while working out too. Do you have any ideas for that?
+124_1,124,1,2021,I just watched the first Jurassic Park movie and I got interested in dinosaurs and their time on earth. Can you tell me about the time when dinosaurs actually existed?
+124_2,124,2,2021,Hmm. What else was characteristic about that era?
+124_3,124,3,2021,Can you tell me more about the fossil records and the theory?
+124_4,124,4,2021,What was it like during the time dinosaurs were on earth?
+124_5,124,5,2021,That's really cool. Could such a continent form again?
+124_6,124,6,2021,Okay. You mentioned three periods in the Dinosaur era. What was characteristic about the first one?
+124_7,124,7,2021,What about the second?
+124_8,124,8,2021,And the last?
+124_9,124,9,2021,What happened to dinosaurs after then?
+124_10,124,10,2021,How do the evolution of dinosaurs across the three periods compare?
+124_11,124,11,2021,That's interesting. How scientifically accurate was the movie?
+125_1,125,1,2021,I’d like to learn more about frogs. What’s the biggest one?
+125_2,125,2,2021,What's been done to protect them?
+125_3,125,3,2021,Has that been effective?
+125_4,125,4,2021,How can I help?
+125_5,125,5,2021,"Okay, that’s the biggest.  What is the smallest?"
+125_6,125,6,2021,Why would leaf litter affect its size?
+126_1,126,1,2021,I want to go on vacation somewhere in Europe with good food. What are some beautiful places?
+126_2,126,2,2021,"Yes, it'll be my first time. Where should I consider?"
+126_3,126,3,2021,What should I not miss on the Coast?
+126_4,126,4,2021,What food is it known for?
+126_5,126,5,2021,Duomo?  What’s that?
+126_6,126,6,2021,Cool!  What kinds of innovations?
+127_1,127,1,2021,Why is it important to reduce runoff in urban areas?
+127_2,127,2,2021,What practices could I use at home to help?
+127_3,127,3,2021,Maybe I could collect it for my garden. I’d like to learn more about using a barrel.  What should I consider?
+127_4,127,4,2021,I live in Seattle and have a big lawn. How big should it be? How much can I save?
+127_5,127,5,2021,That sounds like a lot of water. How big are normal barrels? And what material should I get? What are the pros and cons of different materials?
+127_6,127,6,2021,Is it safe to use on my garden?
+127_7,127,7,2021,What else should I consider when installing it?
+127_8,127,8,2021,You also mentioned rain gardens earlier. How do they compare?
+127_9,127,9,2021,I’ll try the garden too. What are some native plants for my area that I could use?
+128_1,128,1,2021,What’s the science behind why we drink alcohol?
+128_2,128,2,2021,What are the causes of it?
+128_3,128,3,2021,Who is at high risk?
+128_4,128,4,2021,What is a safe amount to drink daily?
+128_5,128,5,2021,What do the guidelines say for pregnant women? Why?
+128_6,128,6,2021,But I’ve heard that pregnant women in France drink wine with dinner. Is that true?
+128_7,128,7,2021,So you mean that the US suggestion may be too strict? What is the French government's attitude?
+128_8,128,8,2021,Tell me about the findings from the Lancet study you mentioned. What advice did it give for safety?
+128_9,128,9,2021,I’d like to stop. What are some treatment options?
+128_10,128,10,2021,"No, I meant drinking alcohol. What are some rehab treatment options to consider?"
+129_1,129,1,2021,What are the mechanisms of depression?
+129_2,129,2,2021,What is the role of serotonin?
+129_3,129,3,2021,How can I balance it?
+129_4,129,4,2021,What foods boost it?
+129_5,129,5,2021,How does the phenylalanine convert to tyrosine?
+129_6,129,6,2021,Can these drugs alleviate depression?
+129_7,129,7,2021,Does this theory explain the cause of depression?
+129_8,129,8,2021,Can a person have both at the same time?
+129_9,129,9,2021,"No, I meant mania and depression."
+129_10,129,10,2021,What are the types of bipolar?
+130_1,130,1,2021,Who are the greatest catchers of all time?
+130_2,130,2,2021,What was he known for?
+130_3,130,3,2021,Who won his award?
+130_4,130,4,2021,Who was the next Rookie of the Year for the team after him?
+130_5,130,5,2021,Did Bench make it into Cooperstown?
+130_6,130,6,2021,Was he married?
+130_7,130,7,2021,I’d like to know about the first two marriages.
+130_8,130,8,2021,Does Bobby play baseball?
+130_9,130,9,2021,Interesting. How old was he when they got divorced?
+131_1,131,1,2021,I saw an online ad for a house with descriptions saying it has a heat pump. What is that?
+131_2,131,2,2021,What are some other choices to heat my home?
+131_3,131,3,2021,What are the pros and cons between a gas furnace and a heat pump?
+131_4,131,4,2021,A heat pump seems very suitable for my house. How much does it cost to install one?
+131_5,131,5,2021,Which type is better in terms of efficiency?
+131_6,131,6,2021,How many years will it take to recoup the investment?
+131_7,131,7,2021,That’s great. What makes it so efficient?
+131_8,131,8,2021,Cool science. But I’ve heard some horror stories about air-source ones.
+131_9,131,9,2021,Tell me about AC systems.
+131_10,131,10,2021,How is it different from a heat pump?

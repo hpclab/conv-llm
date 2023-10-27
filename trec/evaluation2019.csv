@@ -1,0 +1,174 @@
+qid,conv_id,turn,raw_utterance
+31_1,31,1,What is throat cancer?
+31_2,31,2,Is it treatable?
+31_3,31,3,Tell me about lung cancer.
+31_4,31,4,What are its symptoms? 
+31_5,31,5,Can it spread to the throat?
+31_6,31,6,What causes throat cancer?
+31_7,31,7,What is the first sign of it?
+31_8,31,8,Is it the same as esophageal cancer?
+31_9,31,9,What's the difference in their symptoms?
+32_1,32,1,What are the different types of sharks?
+32_2,32,2,"Are sharks endangered?  If so, which species?"
+32_3,32,3,Tell me more about tiger sharks.
+32_4,32,4,What is the largest ever to have lived on Earth?
+32_5,32,5,What's the biggest ever caught?
+32_6,32,6,What about for great whites?
+32_7,32,7,Tell me about makos.
+32_8,32,8,What are their adaptations?
+32_9,32,9,Where do they live?
+32_10,32,10,What do they eat?
+32_11,32,11,How do they compare with tigers for being dangerous?
+33_1,33,1,Tell me about the Neverending Story film.
+33_2,33,2,What is it about?
+33_3,33,3,How was it received?
+33_4,33,4,Did it win any awards?
+33_5,33,5,Was it a book first?
+33_6,33,6,Who was the author and when what it published?
+33_7,33,7,What are the main themes?
+33_8,33,8,Who are the main characters?
+34_1,34,1,Tell me about the Bronze Age collapse.
+34_2,34,2,What is the evidence for it?
+34_3,34,3,What are some of the possible causes?
+34_4,34,4,Who were the Sea Peoples?
+34_5,34,5,What was their role in it?
+34_6,34,6,What other factors led to a breakdown of trade?
+34_7,34,7,What about environmental factors?
+34_8,34,8,What empires survived?
+37_1,37,1,What was the Stanford Experiment?
+37_2,37,2,What did it show?
+37_3,37,3,Tell me about the author of the experiment.
+37_4,37,4,Was it ethical?
+37_5,37,5,What are other similar experiments?
+37_6,37,6,What happened in the Milgram experiment?
+37_7,37,7,Why was it important?
+37_8,37,8,What were the similarities and differences between the studies?
+40_1,40,1,What are the origins of popular music? 
+40_2,40,2,What are its characteristics?
+40_3,40,3,What technological developments enabled it?
+40_4,40,4,When and why did people start taking pop seriously? 
+40_5,40,5,How has it been integrated into music education? 
+40_6,40,6,Describe some of the influential pop bands. 
+40_7,40,7,What makes a song pop punk?
+40_8,40,8,What is the difference between it and emo?
+49_1,49,1,How was Netflix started? 
+49_2,49,2,How did it originally work?
+49_3,49,3,What is its relationship with Blockbuster?
+49_4,49,4,When did Netflix shift from DVDs to a streaming service?
+49_5,49,5,What are its other competitors? 
+49_6,49,6,How does it compare to Amazon Prime Video?
+49_7,49,7,Describe it’s subscriber growth over time.
+49_8,49,8,How has it changed the way TV is watched?
+50_1,50,1,What was the first artificial satellite?
+50_2,50,2,What are the types of orbits?
+50_3,50,3,What are the important classes of satellite?
+50_4,50,4,How do navigation systems work?
+50_5,50,5,What is the Galileo system and why is it important?
+50_6,50,6,Why did it create tension with the US?
+50_7,50,7,What are Cubesats?
+50_8,50,8,What are their advantages? 
+54_1,54,1,What is worth seeing in Washington D.C.?
+54_2,54,2,Which Smithsonian museums are the most popular?
+54_3,54,3,Why is the National Air and Space Museum important?
+54_4,54,4,Is the Spy Museum free?
+54_5,54,5,What is there to do in DC after the museums close?
+54_6,54,6,What is the best time to visit the reflecting pools?
+54_7,54,7,Are there any famous foods?
+54_8,54,8,What is a DC half smoke?
+54_9,54,9,Tell me about its history.
+56_1,56,1,What is Darwin’s theory in a nutshell?
+56_2,56,2,How was it developed? 
+56_3,56,3,How do sexual and asexual reproduction affect it?
+56_4,56,4,How can fossils be used to understand it?
+56_5,56,5,What is modern evidence for it? 
+56_6,56,6,What is the impact on modern biology?
+56_7,56,7,Compare and contrast microevolution and macroevolution.
+56_8,56,8,What is the relationship to speciation?
+58_1,58,1,What is a real-time database?
+58_2,58,2,How does it differ from traditional ones?
+58_3,58,3,What are the advantages of real-time processing?
+58_4,58,4,What are examples of important ones?
+58_5,58,5,What are important applications?
+58_6,58,6,What are important cloud options?
+58_7,58,7,Tell me about the Firebase DB.
+58_8,58,8,How is it used in mobile apps?
+59_1,59,1,Which weekend sports have the most injuries?
+59_2,59,2,What are the most common types of injuries? 
+59_3,59,3,What is the ACL?
+59_4,59,4,What is an injury for it?
+59_5,59,5,Tell me about the RICE method.
+59_6,59,6,Is there disagreement about it?
+59_7,59,7,What is arnica used for?
+59_8,59,8,What are some ways to avoid injury?
+61_1,61,1,Who are The Avengers?
+61_2,61,2,Tell me about their first appearance.
+61_3,61,3,Who is the most powerful and why? 
+61_4,61,4,What is the relationship of Spider-Man to the team?
+61_5,61,5,Why is Batman not a member? 
+61_6,61,6,What is an important team in the DC universe? 
+61_7,61,7,Tell me about the origins of the Justice League.
+61_8,61,8,Who are the important members?
+67_1,67,1,Why is blood red?
+67_2,67,2,What are red blood cells?
+67_3,67,3,How are they created?
+67_4,67,4,How is oxygen transported?
+67_5,67,5,What is anemia?
+67_6,67,6,What are the symptoms?
+67_7,67,7,Can it go away?
+67_8,67,8,What are its possible causes?
+67_9,67,9,How is it treated?
+67_10,67,10,What foods contain high levels of iron?
+67_11,67,11,What improves absorption?
+68_1,68,1,What is cuisine is Emilia-Romagna famous for?
+68_2,68,2,Tell me about cooking schools and classes.
+68_3,68,3,What are famous foods from the region?
+68_4,68,4,Describe the traditional process for making balsamic vinegar?
+68_5,68,5,What is mortadella and where is it from?
+68_6,68,6,What’s the difference with Bologna?
+68_7,68,7,Where was Parmesan cheese created?
+68_8,68,8,What is done with the whey after production?
+68_9,68,9,What are typical pasta dishes?
+68_10,68,10,What is the history of tagliatelle al ragu bolognese?
+68_11,68,11,What are its common variations?
+69_1,69,1,How do you sleep after jet lag?
+69_2,69,2,Does melatonin help?
+69_3,69,3,How was it discovered?
+69_4,69,4,What are good sources in food?
+69_5,69,5,Is melatonin bad for you?
+69_6,69,6,What are the side effects?
+69_7,69,7,Why does it require a prescription in the UK?
+69_8,69,8,How can I increase my levels naturally?
+69_9,69,9,Is it effective for treating insomnia?
+69_10,69,10,How about for anxiety?
+75_1,75,1,Why do turkey and Turkey share the same name?
+75_2,75,2,Where are turkeys from?
+75_3,75,3,What was their importance in native cultures?
+75_4,75,4,When and how were they domesticated?
+75_5,75,5,Can they fly?
+75_6,75,6,Why did Ben Franklin want it to be the national symbol?
+75_8,75,8,Why is it eaten on Thanksgiving?
+77_1,77,1,What's the difference between soup and stew?
+77_2,77,2,Is chilli a stew?
+77_3,77,3,How about goulash?
+77_4,77,4,What are popular ones in France?
+77_5,77,5,How is cassoulet made?
+77_6,77,6,Tell me about feijoada and its significance.
+77_7,77,7,How is it similar or different from cassoulet?
+77_8,77,8,Tell about Bigos stew.
+78_1,78,1,What is the keto diet?
+78_2,78,2,Why was it original developed?
+78_3,78,3,What is ketosis?
+78_4,78,4,What is paleo?
+78_5,78,5,What do they have in common?
+78_6,78,6,How are they different?
+78_7,78,7,What is intermittent fasting?
+78_8,78,8,How is it related to keto?
+79_1,79,1,What is taught in sociology?
+79_2,79,2,What is the main contribution of Auguste Comte?
+79_3,79,3,What is the role of positivism in it?
+79_4,79,4,What is Herbert Spencer known for?
+79_5,79,5,How is his work related to Comte?
+79_6,79,6,What is the functionalist theory?
+79_7,79,7,What is its main criticism?
+79_8,79,8,How does it compare to conflict theory?
+79_9,79,9,What are modern examples of conflict theory?
