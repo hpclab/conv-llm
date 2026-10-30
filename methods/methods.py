@@ -102,7 +102,7 @@ def load_all_qrels(path_folder):
 
 import openai
 import time
-openai.api_key = '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'
+openai.api_key = os.environ.get('OPENAI_API_KEY')  # set OPENAI_API_KEY in your environment
 def query_chatgpt(query):
     try:
         response = openai.Completion.create(
